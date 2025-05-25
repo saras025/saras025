@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saras025
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning power bi
+- 🌱 I’m currently trying to work on real life datasets for data analysis
 - 😄 Pronouns: she
 - ⚡ Fun fact: I'm into reading and trying out new things
 
